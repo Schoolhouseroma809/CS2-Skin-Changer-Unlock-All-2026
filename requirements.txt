@@ -1,0 +1,7 @@
+numpy
+rich
+scipy
+pillow
+pygetwindow
+requests
+tqdm
